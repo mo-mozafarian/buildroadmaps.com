@@ -2,7 +2,7 @@
 
 # Happy Roadmapping
 
-👋 This is Mo! I made  BuildRoadmaps.com as a simple way to visually plan projects, manage workload and create milestone estimates and then export them as PNGs and add them to my project briefs, Google Docs, Sheets, Slides, … . 
+👋 This is Mo! I made  [BuildRoadmaps.com](http://buildroadmaps.com) as a simple way to visually plan projects, manage workload and create milestone estimates and then export them as PNGs and add them to my project briefs, Google Docs, Sheets, Slides, … . 
 
 Note that the current version doesn’t save your Roadmaps. So if you leave the page it gets all reset and you’ll lose your progress. 
 
