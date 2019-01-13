@@ -1,4 +1,4 @@
-[![N|Solid](http://buildroadmaps.com/test/assets/roadmap-logotype.svg)](http://buildroadmaps.com)
+[![build roadmaps](http://buildroadmaps.com/assets/roadmap-logotype.svg)](http://buildroadmaps.com)
 
 👋 This is Mo! I made  [BuildRoadmaps.com](http://buildroadmaps.com) as a simple way to visually plan projects, manage workload and create milestone estimates. You can use the interface to create a Roadmap, then save it as a PNG and add it to your project briefs, Google Docs, Google Sheets, Slides and so on.
 
